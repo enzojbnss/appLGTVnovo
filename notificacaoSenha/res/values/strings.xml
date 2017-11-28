@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Notificacao de senha</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world"></string>
+    <string name="title_activity_notificacao">Notificação</string>
+    <string name="lbl_Motivo">Motivo :</string>
+    <string name="lblSenha">Senha :</string>
+    <string name="lblMenssagem">Menssagem :</string>
+    <string name="btnEnviar">Enviar</string>
+    <string name="btnCancelar">Cancelar</string>
+    <string name="title_activity_service">configuração de serviço</string>
+    <string name="title_activity_service_settings">ServiceSettingsActivity</string>
+    <string name="lblServidor">Servidor :</string>
+    <string name="lblServicoLabel">Configuração de Serviço</string>
+
+</resources>

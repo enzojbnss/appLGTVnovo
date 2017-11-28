@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@xml/preferences"
+        android:menuCategory="container"
+        android:title="@string/title_activity_service"
+        android:titleCondensed="@string/title_activity_service"/>
+
+</menu>
